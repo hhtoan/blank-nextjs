@@ -1,2 +1,2 @@
-# blank-nextjs
-Blank Nextjs bootstrap
+# police-bot
+a bot to check for violations
